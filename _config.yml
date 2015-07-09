@@ -3,7 +3,7 @@ name: Ana Satostegui
 title: Ana's Blog
 email: anaisato@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Professional Web Application Designer, Developer, Learner
+  Professional Software Engineer, Developer, Learner
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "aisatos.github.io" # the base hostname & protocol for your site
 twitter_username: anisatos
@@ -24,4 +24,3 @@ google_analytics: UA-64965352-1
 permalink: /:title/
 
 paginate: 5
-
