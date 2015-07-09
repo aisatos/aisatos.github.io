@@ -11,18 +11,18 @@ Read [Effective Java - Chapter 2]( https://www.google.de/url?sa=t&rct=j&q=&esrc=
 
 Reviewing some of the most used types of Design Patterns: Creational (Factory, Abstract Factory and Builder) and Behavioural (Strategy):
 
-**Factory: **
+**Factory:**
   Singleton. Returns a new object of the type required by parameter (such as a .class)
 
 **Abstract Factory:**
   Singleton. Returns a Factory of the type required by parameter.
 
-**Builder: **
+**Builder:**
   Used to create unmutable objects. It hides the setters and constructor.
   For an Annotation based coding you can use [Lombok library](https://projectlombok.org/).
   Example use: Pizza.Builder().cheese(true).jam("sure").pineaple("oh please no!").build();
 
-**Strategy: **
+**Strategy:**
   The good old switch turned object-oriented.
   Each strategy (case) implements an Interface of action or validation and the list of strategies is executed on a loop.
   Careful with the order of execution (ej: x is not null, x.something bigger than..)
