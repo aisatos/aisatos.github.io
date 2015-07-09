@@ -7,6 +7,6 @@ published: true
 
 ### Hi There!
 
-My name is Brent and I'm from Madison, Wisconsin.
+My name is Ana and I'm from Buenos Aires, Argentina, currently living in Berlin.
 
-I am a passionate, creative user experience designer and web application developer who brings excitement, insight, leadership and focus to open-minded business units in order to craft high quality, long lasting, easy to use solutions so that their business can be more enjoyable and profitable.
+I am a passionate, creative software engineer specializing in Java Backend. The idea here is to create a blog with the key items I'm learning about while improving as a developer. Hopefully someone else can also use this to help clarify some concepts.
