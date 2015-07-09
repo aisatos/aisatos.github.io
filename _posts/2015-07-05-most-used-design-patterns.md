@@ -23,4 +23,6 @@ Reviewing the most used types of Design Patterns: Creational and Behavioural:
 
 **Behavioural**
 
-    Strategy: The good old switch turned object-oriented. Each strategy (case) implements an Interface of action or validation and the list of strategies is executed on a loop. Careful with the order of execution (ej: x is not null, x.something bigger than..)
+    Strategy: The good old switch turned object-oriented.
+      Each strategy (case) implements an Interface of action or validation and the list of strategies is executed on a loop.
+      Careful with the order of execution (ej: x is not null, x.something bigger than..)
